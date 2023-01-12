@@ -8,7 +8,6 @@ int main(){
 
     int j=0;
     string s,t,s_copy;
-
     cin>>s;
     cin>>t;
 
