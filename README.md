@@ -18,6 +18,7 @@
 - Probabilities
 - Sortings
 - Matrices
+- Greedy
 - More will be added...
 
 # The purpose of solving tasks
